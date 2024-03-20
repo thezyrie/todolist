@@ -1,0 +1,9 @@
+body {
+    font-family: Verdana, sans-serif;
+    margin-left: 1rem;
+    max-width: 60rem;
+}
+
+.completed {
+    text-decoration: line-through;
+}
